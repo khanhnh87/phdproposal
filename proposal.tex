@@ -1,0 +1,37 @@
+\documentclass[14pt,a4paper,oneside]{book}
+\usepackage[utf8]{vietnam}
+\usepackage[unicode]{hyperref}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{makeidx}
+\usepackage{graphicx}
+\usepackage{mathptmx}
+\usepackage{fancyhdr}
+\usepackage{niceframe}
+\usepackage{indentfirst}
+\usepackage[left=3.50cm, right=2.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+\fancypagestyle{khong_danh_trang}{%
+	\fancyhf{}
+	\renewcommand{\headrulewidth}{0pt}
+}
+\fancypagestyle{danh_trang_tren_header}{%
+	\fancyhf{}
+	\fancyhead[C]{Trang \thepage}
+	\renewcommand{\headrulewidth}{0pt}
+}
+\begin{document}
+	\pagestyle{khong_danh_trang}
+	\input{bia}
+	
+	\clearpage
+	
+	\tableofcontents
+	
+	\clearpage
+	\pagestyle{danh_trang_tren_header}
+	\fontsize{14pt}{25pt}\selectfont
+	\pagenumbering{arabic}
+	\input{datvande}
+	\input{noidungdecuong}
+	\input {tailieuthamkhao}
+\end{document}

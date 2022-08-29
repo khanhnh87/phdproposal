@@ -1,0 +1,13 @@
+\contentsline {chapter}{ĐẶT VẤN ĐỀ}{1}{chapter*.1}%
+\contentsline {section}{\numberline {1.1}Lí do lựa chọn cơ sở đào tạo}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Lí do lựa chọn lĩnh vực nghiên cứu}{2}{section.1.2}%
+\contentsline {chapter}{NỘI DUNG ĐỀ CƯƠNG}{2}{section.1.2}%
+\contentsline {section}{\numberline {2.1}Tính khoa học và cấp thiết của đề tài}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Tổng quan tình hình nghiên cứu}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Mục tiêu, đối tượng và phạm vi nghiên cứu của đề tài}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Nội dung nghiên cứu}{6}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Phương pháp luận nghiên cứu}{7}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Những kinh nghiệm, kiến thức chuyên môn người dự tuyển đã chuẩn bị}{8}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Kế hoạch thực hiện}{9}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Dự kiến kế hoạch hoạt động khoa học của người dự tuyển sau khi hoàn thành chương trình đào tạo tiến sĩ}{10}{section.2.8}%
+\contentsline {chapter}{Tài liệu tham khảo}{11}{section.2.8}%
